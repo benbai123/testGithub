@@ -1,3 +1,7 @@
 a
+<<<<<<< branchB
+b2
+=======
 b1
+>>>>>>> branchA
 c
